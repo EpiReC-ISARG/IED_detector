@@ -1,4 +1,4 @@
-Matlab file `spike_detector_hilbert.m` contains implementation of detector in MATLAB. Using of a detector and file structures is described in short tutorial `TUTORIAL.m`.
+Matlab file `spike_detector_hilbert_vXX.m` contains implementation of detector in MATLAB. Using of a detector and file structures is described in short tutorial `TUTORIAL.m`.
 
 # IED detector
 
