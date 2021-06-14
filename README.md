@@ -23,8 +23,7 @@ improving the detector’s specificity and having important implications for fut
 
 ## Publication
 Janca, R., Jezdik, P., Cmejla, R. et al. Detection of Interictal Epileptiform Discharges Using Signal Envelope Distribution Modelling: 
-Application to Epileptic and Non-Epileptic Intracranial Recordings. Brain Topogr 28, 172–183 (2015). 
-https://doi.org/10.1007/s10548-014-0379-1
+Application to Epileptic and Non-Epileptic Intracranial Recordings. Brain Topogr 28, 172–183 (2015). doi: [10.1007/s10548-014-0379-1](https://doi.org/10.1007/s10548-014-0379-1)
 
 ## Test data
 Files contain dataset of seven patients labelled by three experts. Detailed information of electrode placement, diagnoses etc. are included.
